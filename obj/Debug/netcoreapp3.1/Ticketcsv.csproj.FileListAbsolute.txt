@@ -1,0 +1,13 @@
+C:\Users\feign\Desktop\DotNetDb\Ticketcsv\bin\Debug\netcoreapp3.1\Ticketcsv.exe
+C:\Users\feign\Desktop\DotNetDb\Ticketcsv\bin\Debug\netcoreapp3.1\Ticketcsv.deps.json
+C:\Users\feign\Desktop\DotNetDb\Ticketcsv\bin\Debug\netcoreapp3.1\Ticketcsv.runtimeconfig.json
+C:\Users\feign\Desktop\DotNetDb\Ticketcsv\bin\Debug\netcoreapp3.1\Ticketcsv.runtimeconfig.dev.json
+C:\Users\feign\Desktop\DotNetDb\Ticketcsv\bin\Debug\netcoreapp3.1\Ticketcsv.dll
+C:\Users\feign\Desktop\DotNetDb\Ticketcsv\bin\Debug\netcoreapp3.1\Ticketcsv.pdb
+C:\Users\feign\Desktop\DotNetDb\Ticketcsv\obj\Debug\netcoreapp3.1\Ticketcsv.csprojAssemblyReference.cache
+C:\Users\feign\Desktop\DotNetDb\Ticketcsv\obj\Debug\netcoreapp3.1\Ticketcsv.AssemblyInfoInputs.cache
+C:\Users\feign\Desktop\DotNetDb\Ticketcsv\obj\Debug\netcoreapp3.1\Ticketcsv.AssemblyInfo.cs
+C:\Users\feign\Desktop\DotNetDb\Ticketcsv\obj\Debug\netcoreapp3.1\Ticketcsv.csproj.CoreCompileInputs.cache
+C:\Users\feign\Desktop\DotNetDb\Ticketcsv\obj\Debug\netcoreapp3.1\Ticketcsv.dll
+C:\Users\feign\Desktop\DotNetDb\Ticketcsv\obj\Debug\netcoreapp3.1\Ticketcsv.pdb
+C:\Users\feign\Desktop\DotNetDb\Ticketcsv\obj\Debug\netcoreapp3.1\Ticketcsv.genruntimeconfig.cache
